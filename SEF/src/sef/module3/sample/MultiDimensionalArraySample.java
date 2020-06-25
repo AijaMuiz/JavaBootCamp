@@ -2,7 +2,10 @@ package sef.module3.sample;
 
 public class MultiDimensionalArraySample {
 	public static void main(String[] args) {
-
+		
+		int a=1
+		int b=1
+		int result= a
 		// Multi-dimensional array declaration sample
 		// Declaring an integer array with 2 dimensions
 		int[][] myIntegerGrid;

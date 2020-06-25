@@ -23,7 +23,7 @@ public class InheritanceSample {
 		s.setAge(15);
 		
 		
-		// Print Info using Student_I object
+		// Print Info using Student_I object3
 		System.out.println("-----------------------------");
 		System.out.println("Student's Name is   : " + s.getName());
 		System.out.println("Student's Age is    : " + s.getAge());

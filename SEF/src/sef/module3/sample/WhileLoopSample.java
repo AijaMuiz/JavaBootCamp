@@ -7,6 +7,7 @@ public class WhileLoopSample {
 		System.out.println("While Loop");
 		int counter = 0;
 		while(counter < 10){
+			System.out.println( );
 			System.out.println("The value of counter is : " + counter);
 			counter++;		
 		}

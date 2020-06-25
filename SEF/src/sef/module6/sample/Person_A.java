@@ -1,4 +1,4 @@
-package sef.module6.sample;
+ package sef.module6.sample;
 
 public abstract class Person_A{
 	
